@@ -1,38 +1,51 @@
-👋 Hi, I'm Karun Mehta
+# 👋 Hi, I'm Karun Mehta
 
-🏆 AIGP Certified AI Governance Professional
+## 🏆 AIGP | PMP | CSM | SAFe Agilist Certified
 
-Senior Technical Program Manager
+Senior Technical Program Manager with 20+ years of experience leading enterprise technology transformation, AI initiatives, Quality Engineering, and large-scale delivery programs across Financial Services, Wealth Management, Capital Markets, and FinTech.
 
-AI Governance
+## 🚀 Areas of Expertise
 
-AI Quality Engineering
+- AI Governance (AIGP)
+- AI Program Management
+- AI Quality Engineering
+- Responsible AI
+- Prompt Engineering
+- Enterprise AI Delivery
+- Technical Program Management
+- Quality Engineering Leadership
+- Agile | SAFe | PMP
 
-Responsible AI
+## 🎯 Current Focus
 
-Financial Services
+- Building Enterprise AI Governance Frameworks\
+- AI Program Management
+- AI Quality Engineering & Testing
 
-Current Focus
+- Prompt Engineering
+- NIST AI RMF
+- ISO/IEC 42001
+- EU AI Act
+- Responsible AI
+- Enterprise AI Risk Management
 
-• Enterprise AI Governance
-• AI Program Management
-• AI Quality Engineering
-• NIST AI RMF
-• ISO 42001
-• EU AI Act
+## 📂 Featured Repositories
 
-Featured Repositories
+- AI Governance Frameworks
+- AI Quality Engineering
+- AI Testing & Validation
+- Prompt Engineering
+- AI Program Management
+- Responsible AI
 
-AI Governance
+## 🤝 Let's Connect
 
-AI Testing
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/karun-mehta-aigp-pmp-csm-2a9a155/
 
-Prompt Engineering
+📧 **Email**  
+karunmehta9@gmail.com
 
-AI Program Management
+---
 
-Connect - 516-996-9700
-
-LinkedIn - https://www.linkedin.com/in/karun-mehta-aigp-pmp-csm-2a9a155/
-
-Email - karunmehta9@gmail.com
+> **Building AI that is trustworthy, testable, governed, compliant, and production-ready through AI Governance, AI Quality Engineering, and disciplined Program Management.**
