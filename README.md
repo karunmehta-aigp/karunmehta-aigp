@@ -31,8 +31,8 @@ Prompt Engineering
 
 AI Program Management
 
-Connect
+Connect - 516-996-9700
 
-LinkedIn
+LinkedIn - https://www.linkedin.com/in/karun-mehta-aigp-pmp-csm-2a9a155/
 
-Email
+Email - karunmehta9@gmail.com
