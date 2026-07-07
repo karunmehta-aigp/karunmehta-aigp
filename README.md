@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Karun Mehta
 
-<!--
-**karunmehta-aigp/karunmehta-aigp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 AIGP Certified AI Governance Professional
 
-Here are some ideas to get you started:
+Senior Technical Program Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Governance
+
+AI Quality Engineering
+
+Responsible AI
+
+Financial Services
+
+Current Focus
+
+• Enterprise AI Governance
+• AI Program Management
+• AI Quality Engineering
+• NIST AI RMF
+• ISO 42001
+• EU AI Act
+
+Featured Repositories
+
+AI Governance
+
+AI Testing
+
+Prompt Engineering
+
+AI Program Management
+
+Connect
+
+LinkedIn
+
+Email
