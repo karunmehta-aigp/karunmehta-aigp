@@ -18,9 +18,9 @@ Senior Technical Program Manager with 20+ years of experience leading enterprise
 
 ## 🎯 Current Focus
 
-- Building Enterprise AI Governance Frameworks\
+- Building Enterprise AI Governance Frameworks
 - AI Program Management
-- AI Quality Engineering & Testing
+- AI Model assurance & Testing
 
 - Prompt Engineering
 - NIST AI RMF
