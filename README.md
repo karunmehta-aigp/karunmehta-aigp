@@ -19,24 +19,21 @@ Senior Technical Program Manager with 20+ years of experience leading enterprise
 ## 🎯 Current Focus
 
 - Building Enterprise AI Governance Frameworks
+- AI Quality Engineering & Testing
 - AI Program Management
-- AI Model assurance & Testing
-
-- Prompt Engineering
 - NIST AI RMF
 - ISO/IEC 42001
 - EU AI Act
 - Responsible AI
-- Enterprise AI Risk Management
 
-## 📂 Featured Repositories
 
-- AI Governance Frameworks
-- AI Quality Engineering
-- AI Testing & Validation
-- Prompt Engineering
-- AI Program Management
-- Responsible AI
+## 📂 Current Repository
+
+
+### AI-Governance
+
+A practical collection of AI Governance frameworks, enterprise governance artifacts, prompt engineering examples, Responsible AI concepts, AI program management considerations, and implementation guidance aligned with NIST AI RMF, ISO/IEC 42001, and the EU AI Act.
+
 
 ## 🤝 Let's Connect
 
